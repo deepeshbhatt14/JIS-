@@ -15,3 +15,10 @@ Using the JIS software, the Registrar of the court should be able to query the f
 (c) The cases that are coming up for hearing on a particular date.
 
 (d) The status of any particular case (cases are identified by CIN). The lawyers and the judges need to refer to the past court cases. The lawyers need to refer these to prepare for their line of arguments. The judges need to refer the past court cases to examine the lines of judgments given previously to similar cases. It should be possible to search for the history of past court cases by entering key words. However, the lawyers should be charged for each time they see the details of a court case to recover some of the computerization costs. For this purpose, it is necessary to provide separate login accounts to the JIS software and keep track of how many court cases each lawyer views. The registrar should be able to create login accounts for the different users (i.e. judges, lawyers, etc) and should be able to delete these accounts.
+
+![2022-04-06 (1)](https://user-images.githubusercontent.com/54663070/161923518-216bf15c-cbf8-41e2-80eb-735738df3031.png)
+![2022-04-06 (2)](https://user-images.githubusercontent.com/54663070/161923526-da49d289-d11d-4216-bb1e-2042a4d7b1e0.png)
+![2022-04-06 (3)](https://user-images.githubusercontent.com/54663070/161923530-e22decfe-03ec-4974-8aba-a622b98c1b5c.png)
+![2022-04-06 (4)](https://user-images.githubusercontent.com/54663070/161923533-52076338-cd90-41fa-8966-d7a566a6e4d9.png)
+![2022-04-06 (5)](https://user-images.githubusercontent.com/54663070/161923535-1e73c191-6677-41ae-8df1-8b753b2a224e.png)
+![2022-04-06](https://user-images.githubusercontent.com/54663070/161923536-9c0937d0-bfed-414b-a77c-d7ac1542e60c.png)
